@@ -1,6 +1,6 @@
 # Gemini Local File Chat
 
-**Erstellt:** Juni 2024
+**Erstellt:** August 2025
 
 ## Zweck der Anwendung
 
