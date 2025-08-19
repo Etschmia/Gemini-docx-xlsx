@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Local File Chat",
+  "description": "A chat application that leverages the Gemini API to interact with users and perform actions on the local file system, such as saving conversations as DOCX or XLSX files.",
+  "requestFramePermissions": []
+}
