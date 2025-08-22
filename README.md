@@ -2,6 +2,8 @@
 
 **Erstellt:** August 2025
 
+## Status 22.08.2025: Funktioniert noch nicht
+
 ## Zweck der Anwendung
 
 **Gemini Local File Chat** ist eine fortschrittliche Chat-Anwendung, die die Leistungsfähigkeit der Google Gemini API mit direktem Zugriff auf das lokale Dateisystem des Benutzers kombiniert. Der Hauptzweck dieser App ist es, den Arbeitsablauf für Benutzer zu optimieren, die von KI generierte Inhalte direkt in gut formatierten Dokumenten benötigen.
